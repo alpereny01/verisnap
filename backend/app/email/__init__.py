@@ -1,0 +1,1 @@
+# E-posta işlemleri modülü - SMTP configuration ve template sistemi

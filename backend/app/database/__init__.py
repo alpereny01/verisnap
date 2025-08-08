@@ -1,0 +1,1 @@
+# Veritabanı modülü - SQLite/PostgreSQL entegrasyonu ve data models
