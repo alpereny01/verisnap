@@ -1,0 +1,1 @@
+# Scraper modülü - Almanya sağlık hizmeti sağlayıcı dizinlerinden veri toplama

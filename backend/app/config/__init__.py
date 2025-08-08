@@ -1,0 +1,1 @@
+# Konfigürasyon modülü - Environment-based config ve settings management
